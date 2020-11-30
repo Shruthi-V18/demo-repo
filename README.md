@@ -1,3 +1,3 @@
 # Demo
 
-Hi, I'm Shruthi Vanarajan
+Hi! I'm Shruthi Vanarajan.
